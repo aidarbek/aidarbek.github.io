@@ -28,9 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: just-the-docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
